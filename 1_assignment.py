@@ -17,4 +17,6 @@ response = co.chat(
     ]
 )
 
+
 print(response.text)
+
